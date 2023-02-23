@@ -1,1 +1,1 @@
-time to catch errors
+Debugging
