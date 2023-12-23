@@ -1,0 +1,5 @@
+school:
+    # Commands to build the executable
+.PHONY: all
+all: school
+
